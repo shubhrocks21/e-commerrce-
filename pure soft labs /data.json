@@ -1,0 +1,6 @@
+{
+  "api_secret": "your_api_secret_here",
+  "data": {
+    // ... your dashboard data
+  }
+}
